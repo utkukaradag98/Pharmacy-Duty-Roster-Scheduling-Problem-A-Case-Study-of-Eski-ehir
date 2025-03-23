@@ -1,4 +1,4 @@
-# Pharmacy Duty Roster Scheduling Problem: A Case Study of Eskişehir
+# Pharmacy Duty Roster Scheduling Problem: A Case Study of Eskisehir
 
 This project presents an optimization model developed in GAMS for scheduling pharmacy duty rosters in Eskişehir, Turkey. The objective is to ensure a fair and efficient distribution of duty days among pharmacies while maintaining a minimum distance of 1.5 km between any two pharmacies on duty at the same time.
 
